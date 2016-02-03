@@ -1,5 +1,5 @@
 <?php 
 phpinfo(); 
 
-echo "im innnnnnnnnnnn india";
+echo "im innnnnnnnnnnn india amit";
 ?>
